@@ -7,8 +7,7 @@ namespace pwgen
     /*
      * SharpPwgen.cs
      *
-     * Copyright (C) 2003-2006 KATO Kazuyoshi <kzys@8-p.info>
-     * Copyright (C) 2022 shuuryou
+     * Copyright (C) 2022
      *
      * This program is a C# port of a JavaScript port of pwgen.
      * The original C source code written by Theodore Ts'o.
